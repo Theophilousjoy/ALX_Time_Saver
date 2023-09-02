@@ -3,7 +3,7 @@ import base64
 import re
 
 username = 'Theophilousjoy'  # Replace with your GitHub username
-token = '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'  # Replace with your GitHub Token
+token = 'token_here'  # Replace with your GitHub Token
 repo_owner = 'Theophilousjoy' #Replace with your Github username
 repo_name = 'alx-low_level_programming' #Select the repo
 repu_sub_dir = input("Enter the sub directory: ") #Select the directory
